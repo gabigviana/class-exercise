@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 li {
     color:aquamarine;
 }
@@ -7,11 +8,14 @@ h2 {
     color:crimson;
     font-size: 30px;
 =======
+=======
+>>>>>>> origin/master
 body {
     background: aqua;
 }
 
 li {
+<<<<<<< HEAD
     color: red;
     font-size: 18px;
 }
@@ -19,4 +23,13 @@ li {
 h2 {
     font-size: 18px;
 >>>>>>> origin/styles
+=======
+    color:aquamarine;
+}
+
+h2 {
+    color:crimson;
+    font-size: 30px;
+
+>>>>>>> origin/master
 }
