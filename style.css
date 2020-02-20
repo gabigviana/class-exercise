@@ -1,16 +1,7 @@
-<<<<<<< HEAD
 body {
     background: aqua;
 }
 
-li {
-    color: red;
-    font-size: 18px;
-}
-
-h2 {
-    font-size: 18px;
-=======
 li {
     color:aquamarine;
 }
@@ -18,5 +9,5 @@ li {
 h2 {
     color:crimson;
     font-size: 30px;
->>>>>>> class-exercise/adding-css-for-test
+
 }
